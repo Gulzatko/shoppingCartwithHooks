@@ -1,0 +1,31 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  margin:auto;
+  border:1px solid black;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+  width: 97%;
+  padding: 5px 10px;
+  background-color: teal;
+  color:white;
+}
+img{
+  width: 80px;
+}
+.phone{
+   display: flex;
+   justify-content: space-between;
+   width:90%;
+}
+.phones{
+  width:90%;
+  
+}
+
+
+
